@@ -1,2 +1,3 @@
 # react.tictactoe
-Created with CodeSandbox
+Tic tac toe game using react.
+
